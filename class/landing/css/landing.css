@@ -1,0 +1,28 @@
+header{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-family: 'Tilt Prism', cursive;
+}
+
+p,li{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.1em;
+    font-weight: 700;
+}
+
+body{
+    background-color: rgba(145, 255, 237, 0.138);
+}
+
+.contact{
+    text-align: center;
+    padding-top: 10%;
+}
+
+div{
+    padding:1%;
+}
+
+nav{
+    background-color: rgba(255, 218, 163, 0.664);
+}
