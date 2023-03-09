@@ -1,0 +1,44 @@
+header{
+    font-family: 'Noto Sans', sans-serif;
+    background-color: #3450A0;
+    color: #E2E2E2;
+    font-size: 90%;
+}
+
+body{
+    background-color: #D1E6FF;
+    color: #707070;
+    font-family: 'Lora', serif;
+}
+
+.banner{
+    background-color: #3450A0;
+    color: #E2E2E2;
+    align-items: center;
+    justify-content: end;
+    padding: 1.5%;
+    font-weight: 200;
+}
+
+
+.new{
+    background-color: #3450A0;
+    color: #E2E2E2;
+    padding: 6%;
+    font-weight: 100;
+    font-size: 1.1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-title{
+    font-weight: 700;
+}
+
+.card-text{
+    font-size: .9em;
+}
+
+/* How do I get "marissa yelenik" to the left? */
+/* How to make all articles the same size */
