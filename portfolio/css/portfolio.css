@@ -1,44 +1,102 @@
-header{
+header {
     font-family: 'Noto Sans', sans-serif;
     background-color: #3450A0;
     color: #E2E2E2;
-    font-size: 90%;
+    font-size: 1.5em;
 }
 
-body{
+body {
     background-color: #D1E6FF;
     color: #707070;
     font-family: 'Lora', serif;
 }
 
-.banner{
+.banner {
     background-color: #3450A0;
     color: #E2E2E2;
     align-items: center;
     justify-content: end;
-    padding: 1.5%;
-    font-weight: 200;
+    padding: 1.2%;
+    font-weight: 300;
 }
 
-
-.new{
+.subheading {
     background-color: #3450A0;
     color: #E2E2E2;
     padding: 6%;
     font-weight: 100;
-    font-size: 1.1em;
     text-align: center;
     align-items: center;
     justify-content: center;
 }
 
-.card-title{
+.leftsubheading {
+    background-color: #3450A0;
+    color: #E2E2E2;
+    padding: 3%;
+    font-weight: 100;
+    align-items: center;
+    justify-content: center;
+}
+
+.abouttext {
+    font-size: 1.5em;
+    line-height: 1.5em;
+    font-weight: 200;
+}
+
+.caption{
+    padding: 5% 0%;
+}
+
+.about {
+    padding: 0% 5%
+}
+
+.aboutimg {
+    padding: 0% 0% 0% 5%
+}
+
+.card-title {
     font-weight: 700;
 }
 
-.card-text{
+.card-text {
     font-size: .9em;
 }
 
+.phototitle {
+    font-size: 1.5em;
+}
+
+.btn {
+    background-color: #3450A0;
+    color: #E2E2E2;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 160%;
+    padding: 1.5% 4%;
+}
+
+.btn:hover {
+    background-color: black;
+}
+
+.bi {
+    color: #3450A0;
+    font-size: 1.5em;
+    letter-spacing: .2em;
+}
+
+.bi:hover {
+    color: black;
+}
+
+footer {
+    text-align: center;
+    padding-top: 10%;
+}
+
+
 /* How do I get "marissa yelenik" to the left? */
-/* How to make all articles the same size */
+/* How to make all articles, pictures the same size */
+/* vertical nav for home page */
