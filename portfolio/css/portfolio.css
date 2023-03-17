@@ -11,29 +11,23 @@ body {
     font-family: 'Lora', serif;
 }
 
-/* .banner {
-    background-color: #3450A0;
-    color: #E2E2E2;
-    align-items: center;
-    justify-content: end;
-    padding: 1.2%;
-    font-weight: 300;
-} */
-
 nav{
     padding: 1.2%;
 }
 
 nav h1{
-    padding: 0 1em;
-    font-size: 1em;
+    padding: 0 .75em;
+    font-size: .75em;
     font-weight: 300;
+    margin: 0;
 }
 
 .nav-link{
     display: inline;
     color: #E2E2E2;
     font-weight: 300;
+    padding: 0 .75em;
+    font-size: .75em;
 }
 
 .nav-link:hover {
