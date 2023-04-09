@@ -8,6 +8,7 @@ header {
 header p {
     font-size: .65em;
     letter-spacing: 1.5px;
+    padding-top: 10%;
 }
 
 header h1 {
@@ -50,6 +51,11 @@ div {
 
 a {
     color: #0E171A;
+    text-decoration-color: #b2322d;
+}
+
+a:hover {
+    color:#b2322d;
 }
 
 b {
@@ -78,4 +84,16 @@ iframe {
 
 .centered {
     text-align: center;
+}
+
+@media screen and (max-width: 480px) {
+    h1 {
+        text-align: center;
+    }
+    header p {
+        text-align: center;
+    }
+    header {
+        padding: 40% 0%;
+    }
 }
