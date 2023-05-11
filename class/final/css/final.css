@@ -55,3 +55,8 @@ main {
     border-radius: 8px; 
     will-change: transform;
 }
+
+.chart {
+    background-color: white;
+    padding: 5%;
+}
