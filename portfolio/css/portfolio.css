@@ -39,9 +39,9 @@ nav h1{
     color: #E2E2E2;
     padding: 6%;
     font-weight: 100;
-    text-align: center;
     align-items: center;
     justify-content: center;
+    text-align: center;
 }
 
 .leftsubheading {
@@ -110,6 +110,8 @@ footer {
     padding-top: 10%;
     font-size: 1.5em;
 }
+
+
 
 
 /* How do I get "marissa yelenik" to the left? */
